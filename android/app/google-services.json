@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "921199948788",
+    "project_id": "real-earners-85abf",
+    "storage_bucket": "real-earners-85abf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921199948788:android:604909579ea5f919b37fa1",
+        "android_client_info": {
+          "package_name": "com.mycompany.realearners"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921199948788-lansscn8asvd8fkaq6cggi1dlmk2nqmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.realearners",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "921199948788-7d81o7fehacd3tij7kjhadsi6mf1b77g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGUHN1khuGi37wT4BIdXLRwJlW4n7ABbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921199948788-7d81o7fehacd3tij7kjhadsi6mf1b77g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "921199948788-1ivl4v8vh8sg62eovss6rv0qvql7t3rf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.realearners"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
