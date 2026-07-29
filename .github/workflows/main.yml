@@ -19,5 +19,4 @@ jobs:
       - name: Run Gradle Signing Report
         run: |
           cd android
-          chmod +x gradlew
-          ./gradlew signingReport
+          gradle signingReport
