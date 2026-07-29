@@ -16,6 +16,8 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
 
-      - name: Get Debug Keystore SHA-1
+      - name: Run Gradle Signing Report
         run: |
-          keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android
+          cd android
+          chmod +x gradlew
+          ./gradlew signingReport
